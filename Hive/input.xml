@@ -1,0 +1,18 @@
+﻿<colmena>
+	<abeja>
+		<id>8888860</id>
+		<nombre>abeja67</nombre>
+		<recoleccion>98765678765434.877</recoleccion>
+		<tiempo>8854464647774</tiempo>
+		<estado>false</estado>
+		<incidentes>9</incidentes>
+	</abeja>
+	<abeja>
+		<id>45678609</id>
+		<nombre>abeja12</nombre>
+		<recoleccion>770000974734.89743</recoleccion>
+		<tiempo>56734340706066066</tiempo>
+		<estado>true</estado>
+		<incidentes>6</incidentes>
+	</abeja>
+</colmena>

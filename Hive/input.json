@@ -1,0 +1,28 @@
+{
+  "colmena": [
+    {
+      "id": 88364,
+      "nombre": "abeja1",
+      "recoleccion": 15888079.4545,
+      "tiempo": 38497738984893946,
+      "estado": true,
+      "incidentes": 3
+    },
+    {
+      "id": 88846,
+      "nombre": "abeja45",
+      "recoleccion": 9999877388.80,
+      "tiempo": 345678987654567,
+      "estado": false,
+      "incidentes": 0
+    },
+    {
+      "id": 0,
+      "nombre": "string",
+      "recoleccion": 0.0,
+      "tiempo": 0,
+      "estado": true,
+      "incidentes": 0
+    }
+  ]
+}
